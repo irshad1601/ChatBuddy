@@ -25,12 +25,13 @@ ChatBuddy is a real-time chat application that allows users to register, log in,
 # Output:
 
 - Login page
-- <img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/login.JPG" alt="Login page" />
+  <img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/login.JPG" alt="Login page" />
 
 - Register page
-![Register page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG)
+<img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG" alt="Registration page" />
 
 
 - Message page
-![Message page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/message.JPG)
+<img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/message.JPG" alt="Message page" />
+
 
