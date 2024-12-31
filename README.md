@@ -17,9 +17,9 @@ ChatBuddy is a real-time chat application that allows users to register, log in,
 
 - Backend: Appwrite
 
--  Styling: Tailwind CSS
+-  Styling: CSS
 
-- State Management: React Context API / Redux (optional)
+- State Management: React Context API 
 
 
 # Output:
@@ -27,13 +27,12 @@ ChatBuddy is a real-time chat application that allows users to register, log in,
 
 
 - Login page
-<img src="blob/main/src/assets/login.jpg" alt="Description" />
+  ![Login page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/login.JPG)
 
 - Register page
-![Register page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.jpg)
+![Register page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG)
 
 
 - Message page
-![Register page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG)
+![Message page](https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/message.JPG)
 
-# ChatBuddy
