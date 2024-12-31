@@ -29,8 +29,8 @@ ChatBuddy is a real-time chat application that allows users to register, log in,
 - Registration page
 <img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG" alt="Registration page" />
 
-- Login page
-  <img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/login.JPG" alt="Registration page" />
+- Registration page
+<img src="https://github.com/irshad1601/ChatBuddy/blob/main/src/assets/register.JPG" alt="Registration page" />
  
 
 - Message page
