@@ -3,6 +3,8 @@
 
 ChatBuddy is a real-time chat application that allows users to register, log in, and communicate seamlessly. The application is built with React.js for the frontend and utilizes Appwrite as the backend service for user authentication, database management, and real-time communication.
 
+# Live Demo: https://chat-buddy-opal.vercel.app/
+
 # Features
 - User Authentication: Secure user registration and login functionality.
 
